@@ -1,0 +1,7 @@
+span {
+  background: tomato;
+  border: solid;
+  display: block;  /* change this display to inline and inline-block to see the difference */
+  width: 100px;
+  height: 100px;
+}
