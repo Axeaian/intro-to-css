@@ -1,0 +1,8 @@
+div {
+  width: 100px;
+  height: 100px;
+  background: tomato;
+  padding: 100px;
+  margin: 100px;
+  border: 10px solid black;
+}
