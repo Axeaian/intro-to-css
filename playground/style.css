@@ -1,0 +1,33 @@
+/* element */
+/* li{
+
+} */
+/* class */
+/* .right-bar{
+
+} */
+/* id */
+/* #cats-title{
+
+} */
+/* star */
+/* *{
+
+} */
+
+/* descendant selector */
+/* .right-bar ul li a{
+} */
+
+/* adjacent selector */
+/* h4+ul{
+
+} */
+
+/* attribute selector */
+/* a[href="#"] {
+} */
+
+/* nth of type */
+/* ul:nth-of-type(odd){
+} */
